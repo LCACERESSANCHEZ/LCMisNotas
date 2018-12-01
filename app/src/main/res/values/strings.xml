@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">LC Mis Notas</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- otros -->
+    <string name="sin_texto"></string>
+    <string name="opcion">Opcion</string>
+
+    <!-- AndroidManifest -->
+
+    <!-- fragment_fragment__registrar__notas.xml -->
+    <string name="stringAñadir_Nota">Añadir Nota</string>
+    <string name="stringLista_de_Detalles">Lista de Detalles</string>
+
+    <!-- show_dialog.xml -->
+    <string name="stringNueva_Nota">Nueva Nota</string>
+    <string name="stringNombre_de_la_nota">Nombre de la nota</string>
+    <string name="stringCANCELAR">CANCELAR</string>
+    <string name="stringAÑADIR">AÑADIR</string>
+
+    <!-- item_list_1 -->
+    <string name="stringIdNotaDetalle">IdNotaDetalle</string>
+    <string name="stringNombreNotaDetalle">Nombre NotaDetalle</string>
+    <string name="stringNombreNota">Nombre Nota</string>
+
+</resources>

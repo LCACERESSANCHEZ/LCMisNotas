@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_MisNotas"
+            android:icon="@drawable/mis_notas"
+            android:title="Mis Notas" />
+            <!-- 65% opacidad-->
+        <item
+            android:id="@+id/nav_Papelera"
+            android:icon="@drawable/mis_notas_eliminadas"
+            android:title="Papelera" />
+
+    </group>
+
+</menu>
